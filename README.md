@@ -1,5 +1,4 @@
 ## Ola! Eu sou o Daniel Parisi 😁
-<br>
 
 ## Redes socias:
 
