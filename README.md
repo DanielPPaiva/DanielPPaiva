@@ -5,11 +5,11 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/danielpariz3)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-parisi-a96400262/)
 
-<br>
+<br/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielPPaiva&show_icons=true&theme=tokyonight)]
 
-
+<br/>
 
 ## Linguagens e Tecnologias :
 
