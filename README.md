@@ -7,8 +7,8 @@
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielPPaiva&show_icons=true&theme=tokyonight)
-<br/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielPPaiva&show_icons=true&theme=tokyonight)]
+
 
 
 ## Linguagens e Tecnologias :
