@@ -27,7 +27,7 @@
 
 ## Sobre mim:
   
-Sou um Desenvolvedor Estudante.
+Sou um Desenvolvedor Estudante.<br/>
 Adoro aprender coisas novas e estou sempre tentando me aperfeiçoar.
 
 ## Cursos:
