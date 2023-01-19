@@ -27,9 +27,7 @@
 
 ## Sobre mim:
   
-Desenvolvedor Estudante.<br/>
-Sou esforçado e comunicativo.<br/>
-Adoro aprender coisas novas e estou sempre tentando me aperfeiçoar.<br/>
+Sou um Desenvolvedor Estudante ,esforçado e comunicativo e adoro aprender coisas novas e estou sempre tentando me aperfeiçoar.
 
 
 ## Cursos:
