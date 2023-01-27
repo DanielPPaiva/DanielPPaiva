@@ -7,7 +7,7 @@
 
 <br/>
 
-![DanielPPaiva's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielPPaiva&show_icons=true&theme=dark)
+![DanielPPaiva's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielPPaiva&show_icons=true&theme=)
 
 <br/>
 
