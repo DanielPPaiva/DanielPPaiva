@@ -6,7 +6,7 @@
 
 <br/>
 
-<img align="center" alt="stats" src="https://github-readme-stats.vercel.app/api?username={DanielPPaiva}&theme=blue-green">
+<img align="center" alt="stats" src="https://github-readme-stats.vercel.app/api?username=DanielPPaiva&theme=blue-green">
 
 <br/>
 
@@ -21,7 +21,7 @@
 
 ## Sobre mim:
   
-Sou um Estudante ,esforçado e comunicativo e adoro aprender coisas novas.
+Sou um Estudante de Ciencia de Dados ,esforçado e comunicativo e adoro aprender coisas novas.
 
 
 ## Cursos:
